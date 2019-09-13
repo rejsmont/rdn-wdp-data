@@ -10,5 +10,6 @@ Due to GitHub repository size restrictions, the data are stored on Google Drive.
 - Clustering results and metadata are stored in [clustering folder](https://drive.google.com/open?id=1y9PkLYxJ7a3UHkI5dOqazX_zbpN4aqF2)
 - Combined, classified data from all nuclei are stored in [samples_complete.csv file](https://drive.google.com/open?id=1EykGKdx7CWYWYzqRY7L7AwLjXygghA2i)
 - Construct sequences are stored in [constructs folder](https://drive.google.com/open?id=1qWbEvyh3WbdQCVaqtA9txU63aVF0ATXl)
+- ChIP data is stored in [ChIP folder](https://drive.google.com/open?id=1OkI0glnSOu0V1oFgcKA6_nAN35BLMVKP)
 
 See the [paper repository](https://github.com/HassanLab/rdn-wdp-paper) for details.
